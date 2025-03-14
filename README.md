@@ -12,15 +12,27 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kdonjs.kdonjs&"  />
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">!Hola como estan 🚀¡</h1>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<br clear="both">
+
+<h3 align="left">👩‍💻  Este soy yo</h3>
+
+###
+
+<br clear="both">
+
+<p align="center">Soy Yorlin Quispe Ygnacio de Lima, Perú.<br><br>🔭 Actualmente trabajo como Ingeniero DevOps, desarrollando e implementando pipelines de CI/CD con Azure DevOps, Kubernetes, ArgoCD y automatizando infraestructura con Terraform.<br>📚 Estoy aprendiendo continuamente sobre AWS, Angular, y mejores prácticas en seguridad y monitoreo con Prometheus y Grafana.<br>⚡ En mi tiempo libre, disfruto optimizando scripts con Bash y Python, experimentando con Docker y explorando tecnologías nuevas relacionadas con DevOps.</p>
 
 ###
 
@@ -105,5 +117,15 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kdonjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdonjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kdonjs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
