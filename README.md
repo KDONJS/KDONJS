@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/yorlin-quispe-ygnacio-5761a1190/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<p align="center">Soy Yorlin Quispe Ygnacio de Lima, Perú.<br><br>🔭 Actualmente trabajo como Ingeniero DevOps, desarrollando e implementando pipelines de CI/CD con Azure DevOps, Kubernetes, ArgoCD y automatizando infraestructura con Terraform.<br>📚 Estoy aprendiendo continuamente sobre AWS, Angular, y mejores prácticas en seguridad y monitoreo con Prometheus y Grafana.<br>⚡ En mi tiempo libre, disfruto optimizando scripts con Bash y Python, experimentando con Docker y explorando tecnologías nuevas relacionadas con DevOps.</p>
+<p align="left">Soy Yorlin Quispe Ygnacio de Lima, Perú.<br><br>- 🔭 Actualmente trabajo como Ingeniero DevOps, desarrollando e implementando pipelines de CI/CD con Azure DevOps, Kubernetes, ArgoCD y automatizando infraestructura con Terraform.<br><br>- 📚 Estoy aprendiendo continuamente sobre AWS, Angular, y mejores prácticas en seguridad y monitoreo con Prometheus y Grafana.<br><br>- ⚡ En mi tiempo libre, disfruto optimizando scripts con Bash y Python, experimentando con Docker y explorando tecnologías nuevas relacionadas con DevOps.</p>
 
 ###
 
